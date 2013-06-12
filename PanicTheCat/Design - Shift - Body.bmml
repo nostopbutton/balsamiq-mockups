@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="917" measuredH="619" mockupW="907" mockupH="611">
+  <controls>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="10" y="8" w="907" h="611" measuredW="907" measuredH="611" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C134%2C278%2C163%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22278%2C134%2C671%2C163%22%20href%3D%22Design%2520-%2520Home.bmml%22%20alt%3D%22Design%20-%20Home%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C134%2C892%2C163%22%20href%3D%22SignIn.bmml%22%20alt%3D%22SignIn%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22213%2C82%2C695%2C130%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22703%2C559%2C880%2C580%22%20href%3D%22Inspiration%2520-%2520Sheath.bmml%22%20alt%3D%22Inspiration%20-%20Sheath%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22354%2C255%2C398%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Body.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Body%22%20id%3D%229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22398%2C255%2C443%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Neck.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Neck%22%20id%3D%229_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22443%2C255%2C487%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Back.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Back%22%20id%3D%229_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22487%2C255%2C550%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Sleeves.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Sleeves%22%20id%3D%229_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22550%2C255%2C603%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Details.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Details%22%20id%3D%229_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C221%2C518%2C244%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Body.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Body%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C249%2C880%2C276%22%20href%3D%22Design%2520-%2520Home.bmml%22%20alt%3D%22Design%20-%20Home%22%20id%3D%2213%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22529%2C222%2C666%2C243%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Info.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Info%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C134%2C278%2C163%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22278%2C134%2C671%2C163%22%20href%3D%22Design%2520-%2520Home.bmml%22%20alt%3D%22Design%20-%20Home%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C134%2C892%2C163%22%20href%3D%22SignIn.bmml%22%20alt%3D%22SignIn%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22213%2C82%2C695%2C130%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22703%2C559%2C880%2C580%22%20href%3D%22Inspiration%2520-%2520Sheath.bmml%22%20alt%3D%22Inspiration%20-%20Sheath%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22354%2C255%2C398%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Body.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Body%22%20id%3D%229_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22398%2C255%2C443%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Neck.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Neck%22%20id%3D%229_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22443%2C255%2C487%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Back.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Back%22%20id%3D%229_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22487%2C255%2C550%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Sleeves.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Sleeves%22%20id%3D%229_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22550%2C255%2C603%2C280%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Details.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Details%22%20id%3D%229_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C221%2C518%2C244%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Body.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Body%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C249%2C880%2C276%22%20href%3D%22Design%2520-%2520Home.bmml%22%20alt%3D%22Design%20-%20Home%22%20id%3D%2213%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22529%2C222%2C666%2C243%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Info.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Info%22%20id%3D%2216%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="907" h="611">
+          <text>Don%27t%20Panic%20The%20Cat%20-%20Design%20A%20Dress</text>
+        </override>
+        <override controlID="1" x="14" y="134" w="879" h="29"/>
+        <override controlID="6" x="213" y="82" w="482" h="48"/>
+        <override controlID="8" x="703" y="559" w="-1" h="-1"/>
+        <override controlID="9" x="334" y="255" w="547" h="304">
+          <hrefs>Design%20-%20Shift%20-%20Body%26bm%3BDesign%20-%20Shift%20-%20Body.bmml%26bm%3BDesign%20-%20Shift%20-%20Body.bmml%26bm%3BDesign%20-%20Shift%20-%20Body.bmml%2CDesign%20-%20Shift%20-%20Neck%26bm%3BDesign%20-%20Shift%20-%20Neck.bmml%26bm%3BDesign%20-%20Shift%20-%20Neck.bmml%26bm%3BDesign%20-%20Shift%20-%20Neck.bmml%2CDesign%20-%20Shift%20-%20Back%26bm%3BDesign%20-%20Shift%20-%20Back.bmml%26bm%3BDesign%20-%20Shift%20-%20Back.bmml%26bm%3BDesign%20-%20Shift%20-%20Back.bmml%2CDesign%20-%20Shift%20-%20Sleeves%26bm%3BDesign%20-%20Shift%20-%20Sleeves.bmml%26bm%3BDesign%20-%20Shift%20-%20Sleeves.bmml%26bm%3BDesign%20-%20Shift%20-%20Sleeves.bmml%2CDesign%20-%20Shift%20-%20Details%26bm%3BDesign%20-%20Shift%20-%20Details.bmml%26bm%3BDesign%20-%20Shift%20-%20Details.bmml%26bm%3BDesign%20-%20Shift%20-%20Details.bmml</hrefs>
+          <selectedIndex>0</selectedIndex>
+          <text>Body%2C%20Neck%2C%20Back%2C%20Sleeves%2C%20Details</text>
+        </override>
+        <override controlID="10" x="15" y="225" w="287" h="334">
+          <src>./assets/Look-Shift-Body.jpg</src>
+        </override>
+        <override controlID="11" x="412" y="221" w="106" h="-1">
+          <text>Shift</text>
+        </override>
+        <override controlID="12" x="334" y="222" w="-1" h="-1"/>
+        <override controlID="13" x="821" y="249" w="-1" h="-1"/>
+        <override controlID="14" x="14" y="169" w="868" h="41">
+          <text>A%20hallmark%20of%20the%20sexual%20revolution%20%28get%20in%21%29%2C%20the%20shift%20dress%20is%20short%2C%20simple%20and%20utterly%20timeless.%0ACreate%20your%20own%20customized%20dress%20by%20changing%20the%20options%20below....</text>
+        </override>
+        <override controlID="15" x="763" y="219" w="-1" h="-1">
+          <state>up</state>
+        </override>
+        <override controlID="16" x="529" y="222" w="-1" h="-1">
+          <state>up</state>
+        </override>
+        <override controlID="17" x="427" y="304" w="336" h="130">
+          <src>./assets/DressOptions-Shift-Body.jpeg</src>
+        </override>
+        <override controlID="19">
+          <src>./assets/Look-Shift-Body.jpg</src>
+        </override>
+        <src>./assets/Design%20-%20Home.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

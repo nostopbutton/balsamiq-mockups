@@ -1,0 +1,111 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1306" measuredH="858" mockupW="1224" mockupH="790">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="82" y="68" w="1224" h="790" measuredW="1224" measuredH="790" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Paper%20Layout%2017x11%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1224" h="790" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>13421772</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="99" y="86" w="1187" h="758" measuredW="1187" measuredH="758" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Storyboard</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="388" h="378" measuredW="388" measuredH="378" zOrder="0" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>*1.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="399" y="0" w="388" h="378" measuredW="388" measuredH="378" zOrder="1" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+                <color>16777215</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>*2.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="799" y="0" w="388" h="378" measuredW="388" measuredH="378" zOrder="2" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>*3.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="380" w="388" h="378" measuredW="388" measuredH="378" zOrder="3" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>*4.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="399" y="380" w="388" h="378" measuredW="388" measuredH="378" zOrder="4" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>*5.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="799" y="380" w="388" h="378" measuredW="388" measuredH="378" zOrder="5" locked="false" isInGroup="9">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="388" h="260" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="11" y="271" w="364" h="107" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>*6.%20Note*%0ANotes%20go%20here</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

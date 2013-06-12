@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1284" measuredH="1258" mockupW="1284" mockupH="1258">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1284" h="1051" measuredW="1284" measuredH="1051" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="89" x="57" y="25" w="27" h="180"/>
+        <override controlID="89:5" x="0" y="0" w="0" h="0"/>
+        <override controlID="-1"/>
+        <override controlID="89:0" x="0" y="20" w="0" h="0"/>
+        <override controlID="89:1" x="0" y="60" w="0" h="0"/>
+        <override controlID="89:2" x="0" y="100" w="0" h="0"/>
+        <override controlID="89:6" x="27" y="20" w="0" h="0"/>
+        <override controlID="89:3" x="0" y="140" w="0" h="0"/>
+        <override controlID="89:4" x="0" y="180" w="0" h="0"/>
+        <src>$ACCOUNT/assets/Bootstrap%20Grid%20Layout.bmml#Bootstrap%20Grid%20Large</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1284" h="88" measuredW="1284" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221129%2C4%2C1226%2C44%22%20href%3D%22my_bag.bmml%22%20alt%3D%22my_bag%22%20id%3D%2233%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C4%2C721%2C44%22%20href%3D%22storyboard.bmml%22%20alt%3D%22storyboard%22%20id%3D%2234%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C7%2C193%2C42%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C46%2C185%2C86%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%2224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C46%2C319%2C86%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22328%2C46%2C409%2C86%22%20href%3D%22better_fit.bmml%22%20alt%3D%22better_fit%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22424%2C46%2C530%2C86%22%20href%3D%22browse_fabrics.bmml%22%20alt%3D%22browse_fabrics%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221022%2C46%2C1129%2C86%22%20href%3D%22about_BRAZEN.bmml%22%20alt%3D%22about_BRAZEN%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221139%2C46%2C1226%2C86%22%20href%3D%22contact_us.bmml%22%20alt%3D%22contact_us%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221059%2C4%2C1129%2C44%22%20href%3D%22sign_up.bmml%22%20alt%3D%22sign_up%22%20id%3D%2230%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22545%2C46%2C659%2C86%22%20href%3D%22book_party.bmml%22%20alt%3D%22book_party%22%20id%3D%2231%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221129%2C4%2C1226%2C44%22%20href%3D%22my_bag.bmml%22%20alt%3D%22my_bag%22%20id%3D%2233%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C4%2C721%2C44%22%20href%3D%22storyboard.bmml%22%20alt%3D%22storyboard%22%20id%3D%2234%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C7%2C193%2C42%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C46%2C185%2C86%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%2224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C46%2C319%2C86%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22328%2C46%2C409%2C86%22%20href%3D%22better_fit.bmml%22%20alt%3D%22better_fit%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22424%2C46%2C530%2C86%22%20href%3D%22browse_fabrics.bmml%22%20alt%3D%22browse_fabrics%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221022%2C46%2C1129%2C86%22%20href%3D%22about_BRAZEN.bmml%22%20alt%3D%22about_BRAZEN%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221139%2C46%2C1226%2C86%22%20href%3D%22contact_us.bmml%22%20alt%3D%22contact_us%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221059%2C4%2C1129%2C44%22%20href%3D%22sign_up.bmml%22%20alt%3D%22sign_up%22%20id%3D%2230%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22545%2C46%2C659%2C86%22%20href%3D%22book_party.bmml%22%20alt%3D%22book_party%22%20id%3D%2231%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221129%2C4%2C1226%2C44%22%20href%3D%22my_bag.bmml%22%20alt%3D%22my_bag%22%20id%3D%2233%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C4%2C721%2C44%22%20href%3D%22storyboard.bmml%22%20alt%3D%22storyboard%22%20id%3D%2234%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C7%2C193%2C42%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C46%2C185%2C86%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%2224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C46%2C319%2C86%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22328%2C46%2C409%2C86%22%20href%3D%22better_fit.bmml%22%20alt%3D%22better_fit%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22424%2C46%2C530%2C86%22%20href%3D%22browse_fabrics.bmml%22%20alt%3D%22browse_fabrics%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221022%2C46%2C1129%2C86%22%20href%3D%22about_BRAZEN.bmml%22%20alt%3D%22about_BRAZEN%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221139%2C46%2C1226%2C86%22%20href%3D%22contact_us.bmml%22%20alt%3D%22contact_us%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221059%2C4%2C1129%2C44%22%20href%3D%22sign_up.bmml%22%20alt%3D%22sign_up%22%20id%3D%2230%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22545%2C46%2C659%2C86%22%20href%3D%22book_party.bmml%22%20alt%3D%22book_party%22%20id%3D%2231%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221129%2C4%2C1226%2C44%22%20href%3D%22my_bag.bmml%22%20alt%3D%22my_bag%22%20id%3D%2233%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C4%2C721%2C44%22%20href%3D%22storyboard.bmml%22%20alt%3D%22storyboard%22%20id%3D%2234%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C7%2C193%2C42%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C46%2C185%2C86%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%2224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C46%2C319%2C86%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22328%2C46%2C409%2C86%22%20href%3D%22better_fit.bmml%22%20alt%3D%22better_fit%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22424%2C46%2C530%2C86%22%20href%3D%22browse_fabrics.bmml%22%20alt%3D%22browse_fabrics%22%20id%3D%2227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221022%2C46%2C1129%2C86%22%20href%3D%22about_BRAZEN.bmml%22%20alt%3D%22about_BRAZEN%22%20id%3D%2228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221139%2C46%2C1226%2C86%22%20href%3D%22contact_us.bmml%22%20alt%3D%22contact_us%22%20id%3D%2229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221059%2C4%2C1129%2C44%22%20href%3D%22sign_up.bmml%22%20alt%3D%22sign_up%22%20id%3D%2230%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22545%2C46%2C659%2C86%22%20href%3D%22book_party.bmml%22%20alt%3D%22book_party%22%20id%3D%2231%22/%3E</map>
+        <src>./assets/brazen_assets.bmml#brazen-navbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::SubTitle" x="57" y="103" w="-1" h="-1" measuredW="167" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20BRAZEN</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextArea" x="57" y="138" w="1170" h="190" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>We%20founded%20BRAZEN%20out%20of%20a%20frustration%20of%20never%20being%20able%20to%20find%20the%20clothes%20we%20really%20wanted.%20After%20having%205%20kids%20clothes%20shopping%20had%20lost%20its%20sparkle%2C%20left%20us%20deflated%20and%20there%20was%20always%20a%20compromise%20%u2013%20too%20short%2C%20too%20baggy%2C%20too%20expensive%20or%20even%20too%20plain.%0A%20%0ASo%20our%20aim%20is%20simple%20-%20to%20allow%20women%20like%20us%20to%20create%20extraordinary%20clothes%20that%20reflect%20their%20own%20sense%20of%20style%20whilst%20both%20flattering%20and%20fitting%20each%20of%20our%20unique%20bodies.%20We%20want%20everyone%20to%20be%20able%20to%20step%20out%20with%20confidence%20day%20and%20night%2C%20feeling%20a%20million%20dollars%20and%20we%20know%20from%20personal%20experience%20that%20a%20great%20outfit%20can%20make%20all%20the%20difference.%0A%20%0AWe%20are%20starting%20by%20offering%20utterly%20fabulous%20custom%20made%20dresses%20and%20separates%20designed%20by%20us%20and%20perfected%20by%20you.%20You%20choose%20the%20style%20and%20simply%20change%20the%20bodice%2C%20skirt%2C%20sleeves%2C%20length%2C%20fabric%2C%20trims%20and%20accessories.%20You%20can%20then%20decide%20whether%20our%20unique%20standard%20sizing%20model%20based%20on%203d%20body%20scanning%20is%20right%20for%20you%20or%20whether%20you%20want%20us%20to%20create%20a%20bespoke%20pattern%20just%20for%20you%20based%20on%20your%20measurements.%0A%20%0AOnce%20you%20have%20experienced%20custom%20from%20the%20comfort%20of%20your%20own%20home%20you%20will%20always%20want%20to%20feel%20this%20good.</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="66" y="322" w="200" h="40" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>%20%0ASteph%20and%20Jess</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::SubTitle" x="67" y="393" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20story</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="308" y="435" w="668" h="232" measuredW="300" measuredH="200" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Webcam" x="554" y="452" w="-1" h="-1" measuredW="177" measuredH="146" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="1064" y="692" w="160" h="171" measuredW="280" measuredH="300" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/about_jess.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="220" y="730" w="831" h="125" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <borderColor>16777215</borderColor>
+        <text>With%2012%20years%20of%20textiles%20and%20design%20experience%20Jess%20has%20lead%20the%20way%20with%20the%20creative%20development%20of%20the%20range.%20Aiming%20to%20create%20classic%20designs%20that%20are%20jaw%20droppingly%20gorgeous%2C%20Jess%20has%20worked%20closely%20with%20Alex%20and%20our%20manufacturing%20experts%20and%20spent%20years%20researching%20the%20perfect%20silhouettes%20and%20fabrics%20that%20both%20flatter%20and%20fit%20and%20quite%20frankly%20just%20make%20you%20feel%20great.</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextArea" x="491" y="692" w="560" h="34" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <borderColor>16777215</borderColor>
+        <size>16</size>
+        <text>Jessica%20Stephens%20%u2013%20Founder%20and%20Creative%20Director</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="62" y="859" w="160" h="171" measuredW="280" measuredH="300" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/about_steph.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="250" y="901" w="831" h="125" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>16777215</borderColor>
+        <text>With%2015%20years%20commercial%20experience%20Steph%20has%20developed%20our%20international%20supply%20chain%20to%20ensure%20we%20offer%20high%20quality%2C%20value%20for%20money%20pieces%20that%20exceed%20our%20consumers%u2019%20expectations%20whilst%20offering%20the%20just%20in%20time%20service%20we%20require.</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextArea" x="250" y="859" w="560" h="34" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <borderColor>16777215</borderColor>
+        <size>16</size>
+        <text>Stephanie%20Holland%20%u2013%20Founder%20and%20Commerical%20Director</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Component" x="0" y="1066" w="1284" h="192" measuredW="1284" measuredH="192" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/brazen_assets.bmml#brazen_footer</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

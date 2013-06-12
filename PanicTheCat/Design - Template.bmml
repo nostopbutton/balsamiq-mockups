@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="913" measuredH="619" mockupW="907" mockupH="611">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="6" y="8" w="907" h="611" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Don%27t%20Panic%20The%20Cat%20-%20Design%20A%20Dress</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="20" y="142" w="879" h="29" measuredW="286" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>AboutUs%26bm%3BAboutUs.bmml%26bm%3BAboutUs.bmml%26bm%3BAboutUs.bmml%2CDesign%20-%20Home%26bm%3BDesign%20-%20Home.bmml%26bm%3BDesign%20-%20Home.bmml%26bm%3BDesign%20-%20Home.bmml%2CSignIn%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C134%2C278%2C163%22%20href%3D%22AboutUs.bmml%22%20alt%3D%22AboutUs%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22278%2C134%2C671%2C163%22%20href%3D%22Design%2520-%2520Home.bmml%22%20alt%3D%22Design%20-%20Home%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C134%2C892%2C163%22%20href%3D%22SignIn.bmml%22%20alt%3D%22SignIn%22%20id%3D%221_2%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <text>About%20Us%2C%20Design%20A%20Dress%2C%20Sign%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="219" y="90" w="482" h="48" measuredW="2194" measuredH="391" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22213%2C82%2C695%2C130%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%226%22/%3E</map>
+        <src>./assets/Logo-Strap.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="763" y="559" w="-1" h="-1" measuredW="136" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Inspiration%20-%20Sheath%26bm%3BInspiration%20-%20Sheath.bmml%26bm%3BInspiration%20-%20Sheath.bmml%26bm%3BInspiration%20-%20Sheath.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22757%2C551%2C893%2C572%22%20href%3D%22Inspiration%2520-%2520Sheath.bmml%22%20alt%3D%22Inspiration%20-%20Sheath%22%20id%3D%228%22/%3E</map>
+        <text>I%20need%20some%20inspiration</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TabBar" x="422" y="244" w="465" h="308" measuredW="293" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Body%2C%20Neck%2C%20Back%2C%20Sleeves%2C%20Details</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="83" y="208" w="287" h="344" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="504" y="200" w="156" h="-1" measuredW="71" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Design%20-%20Shift%20-%20Body%26bm%3BDesign%20-%20Shift%20-%20Body.bmml%26bm%3BDesign%20-%20Shift%20-%20Body.bmml%26bm%3BDesign%20-%20Shift%20-%20Body.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22498%2C192%2C654%2C215%22%20href%3D%22Design%2520-%2520Shift%2520-%2520Body.bmml%22%20alt%3D%22Design%20-%20Shift%20-%20Body%22%20id%3D%2211%22/%3E</map>
+        <text>--------------</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="422" y="201" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dress%20type%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="828" y="196" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

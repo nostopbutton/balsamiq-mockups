@@ -1,0 +1,228 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1275" measuredH="1663" mockupW="1275" mockupH="1657">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="0" y="34" w="256" h="255" measuredW="256" measuredH="255" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C100%2C250%2C253%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C100%2C250%2C253%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C98%2C250%2C251%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C72%2C250%2C225%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E</map>
+        <override controlID="0">
+          <text>Home%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1">
+          <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+          <src>./assets/mocks/home.png</src>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="256" y="429" w="256" h="255" measuredW="256" measuredH="255" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C496%2C504%2C650%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C496%2C504%2C650%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C494%2C504%2C648%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22257%2C468%2C504%2C622%22%20href%3D%22shop_the_collection.bmml%22%20alt%3D%22shop_the_collection%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Shop%20The%20Collection%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="1" y="73" w="247" h="154">
+          <href>shop_the_collection%26bm%3Bshop_the_collection.bmml%26bm%3Bshop_the_collection.bmml%26bm%3Bshop_the_collection.bmml</href>
+          <src>./assets/mock_shop_the_collection.png</src>
+          <text/>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="1019" y="429" w="256" h="255" measuredW="256" measuredH="255" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C495%2C1269%2C647%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C495%2C1269%2C647%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C493%2C1269%2C645%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221019%2C467%2C1269%2C619%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Design%20Builder%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="0" y="72" w="250" h="152">
+          <href>design_builder%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml</href>
+          <src>./assets/mocks/design_builder.png</src>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="1019" y="34" w="256" h="255" measuredW="256" measuredH="255" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C103%2C1269%2C252%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C103%2C1269%2C252%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C101%2C1269%2C250%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221025%2C75%2C1269%2C224%22%20href%3D%22design_your_own.bmml%22%20alt%3D%22design_your_own%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Design%20Your%20Own%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="6" y="75" w="244" h="149">
+          <href>design_your_own%26bm%3Bdesign_your_own.bmml%26bm%3Bdesign_your_own.bmml%26bm%3Bdesign_your_own.bmml</href>
+          <src>./assets/mock_design_your_own.png</src>
+          <text/>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="608" y="1055" w="256" h="255" measuredW="256" measuredH="255" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1121%2C858%2C1274%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1121%2C858%2C1274%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1119%2C858%2C1272%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1093%2C858%2C1246%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%221%22/%3E</map>
+        <override controlID="0">
+          <text>Reviw%20your%20design%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1">
+          <href>review_dress%26bm%3Breview_dress.bmml%26bm%3Breview_dress.bmml%26bm%3Breview_dress.bmml</href>
+          <src>./assets/mocks/review_dress.png</src>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="608" y="698" w="256" h="255" measuredW="256" measuredH="255" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C767%2C856%2C916%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C767%2C856%2C916%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C765%2C856%2C914%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C739%2C856%2C888%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Sizing%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="0" y="75" w="248" h="149">
+          <href>sizing%26bm%3Bsizing.bmml%26bm%3Bsizing.bmml%26bm%3Bsizing.bmml</href>
+          <src>./assets/mocks/sizing.png</src>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="608" y="1408" w="256" h="255" measuredW="256" measuredH="255" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1474%2C858%2C1627%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1474%2C858%2C1627%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1472%2C858%2C1625%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C1446%2C858%2C1599%22%20href%3D%22order_confirmation.bmml%22%20alt%3D%22order_confirmation%22%20id%3D%221%22/%3E</map>
+        <override controlID="0">
+          <text>Order%20Confirmation%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1">
+          <href>order_confirmation%26bm%3Border_confirmation.bmml%26bm%3Border_confirmation.bmml%26bm%3Border_confirmation.bmml</href>
+          <src>./assets/mocks/order_confirmation.png</src>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Arrow" x="269" y="154" w="727" h="7" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>NAV%3A%20%22Design%20your%20own%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Arrow" x="117" y="306" w="128" h="241" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>NAV%3A%20%22Shop%20the%20collection%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="523" y="571" w="167" h="119" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>ACTION%3A%20%22Buy%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="1138" y="306" w="6" h="103" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>ACTION%3A%20%22Design%20me%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="787" y="571" w="217" h="119" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <markup>false</markup>
+        <rightArrow>false</rightArrow>
+        <text>ACTION%3A%20%22Buy%20now%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Arrow" x="726" y="967" w="6" h="70" measuredW="150" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>ACTION%3A%20%22Buy%20now%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="726" y="1323" w="278" h="61" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <stroke>dotted</stroke>
+        <text>ACTION%3A%20%22Proceed%20to%20PayPal%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="420" y="6" w="-1" h="-1" measuredW="444" measuredH="43" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GOAL%3A%20Purchase%20a%20dress</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Arrow" x="518" y="519" w="486" h="10" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <markup>false</markup>
+        <text>ACTION%3A%20%22Customize%20dress%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Component" x="1028" y="1371" w="62" h="28" measuredW="62" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/Credit%20Card%20Icons.bmml#Icon%20-%20PayPal</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Arrow" x="879" y="1408" w="175" h="74" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <markup>false</markup>
+        <rightArrow>false</rightArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Component" x="758" y="711" w="256" h="255" measuredW="256" measuredH="255" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C780%2C1006%2C929%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C780%2C1006%2C929%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C778%2C1006%2C927%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C752%2C1006%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22767%2C752%2C1015%2C901%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing%28b%29.bmml%22%20alt%3D%22sizing%28b%29%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22768%2C747%2C1016%2C896%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Sizing%20%28b%29%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="0" y="75" w="248" h="149">
+          <href>sizing%28b%29%26bm%3Bsizing%28b%29.bmml%26bm%3Bsizing%28b%29.bmml%26bm%3Bsizing%28b%29.bmml</href>
+          <src>./assets/mocks/sizing(b).png</src>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Component" x="903" y="723" w="256" h="255" measuredW="256" measuredH="255" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C792%2C1151%2C941%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C792%2C1151%2C941%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C790%2C1151%2C939%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C764%2C1151%2C913%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C764%2C1151%2C913%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C764%2C1151%2C913%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C764%2C1151%2C913%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C764%2C1151%2C913%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C752%2C1151%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C752%2C1170%2C901%22%20href%3D%22sizing.bmml%22%20alt%3D%22sizing%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="256" h="255">
+          <text>Sizing%20%28c%29%0Ahttp%3A//</text>
+        </override>
+        <override controlID="1" x="0" y="75" w="248" h="149">
+          <href>sizing%26bm%3Bsizing.bmml%26bm%3Bsizing.bmml%26bm%3Bsizing.bmml</href>
+          <src>./assets/mocks/sizing(c).png</src>
+        </override>
+        <override controlID="-1">
+          <markup>false</markup>
+        </override>
+        <src>./assets/brazen_assets.bmml#story_browser</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
