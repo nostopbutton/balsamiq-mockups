@@ -162,9 +162,11 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="15" controlTypeID="__group__" x="37" y="97" w="270" h="597" measuredW="270" measuredH="597" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="__group__" x="37" y="125" w="270" h="563" measuredW="270" measuredH="563" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>dress</controlName>
+        <href>design_builder%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C125%2C307%2C688%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%2215%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="2" y="0" w="112" h="-1" measuredW="105" measuredH="21" zOrder="0" locked="false" isInGroup="15">
@@ -173,30 +175,14 @@
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="20" w="270" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="15"/>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="3" y="29" w="103" h="-1" measuredW="88" measuredH="21" zOrder="2" locked="false" isInGroup="15">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="84" y="542" w="103" h="-1" measuredW="88" measuredH="21" zOrder="2" locked="false" isInGroup="15">
           <controlProperties>
             <text>HKD%20%3CPRICE%3E</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="191" y="29" w="79" h="27" measuredW="83" measuredH="27" zOrder="3" locked="false" isInGroup="15">
-          <controlProperties>
-            <color>2848996</color>
-            <href>review_dress%26bm%3Breview_dress.bmml%26bm%3Breview_dress.bmml%26bm%3Breview_dress.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22228%2C126%2C307%2C153%22%20href%3D%22review_dress.bmml%22%20alt%3D%22review_dress%22%20id%3D%223%22/%3E</map>
-            <text>BUY%20NOW</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="30" y="64" w="210" h="500" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="15">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="30" y="36" w="210" h="500" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="15">
           <controlProperties>
             <text/>
-          </controlProperties>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="59" y="570" w="150" h="27" measuredW="124" measuredH="27" zOrder="5" locked="false" isInGroup="15">
-          <controlProperties>
-            <color>2848996</color>
-            <href>design_builder%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml%26bm%3Bdesign_builder.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2296%2C667%2C246%2C694%22%20href%3D%22design_builder.bmml%22%20alt%3D%22design_builder%22%20id%3D%225%22/%3E</map>
-            <text>Customize%20Dress</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
